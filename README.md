@@ -1,5 +1,7 @@
 **Build python environment container image with necessary dependencies and packages using docker**
 
+Put your venv files in the following directory ./myproject
+
 Docker build .
 
 Or
